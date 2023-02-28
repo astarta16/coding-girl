@@ -72,6 +72,8 @@ span{
 }
 
 a{
-    color: rgb(204, 236, 236);
+    color: rgb(216, 194, 224);
+    text-transform: uppercase;
+    font-family: 'Shantell Sans';
 }
 
